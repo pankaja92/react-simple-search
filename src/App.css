@@ -1,8 +1,9 @@
 .App {
   text-align: center;
-  padding-top: 50px;
-  width:  40%;
+  padding-top: 10px;
+  width:  80%;
   margin : auto;
+  font-family: 'Oxygen', sans-serif;
 }
 
 .App-logo {
@@ -30,6 +31,6 @@
 }
 
 .name-list {
-  padding-left: 10%;
-  padding-right : 10%;
+  padding-left: 5%;
+  padding-right : 5%;
 }

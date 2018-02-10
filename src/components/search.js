@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { Input } from 'reactstrap';
 
 const style = {
-  paddingLeft : 30,
-  paddingRight : 30,
-  paddingBottom : 25,
-  paddingTop : 20
+  paddingLeft : 5,
+  paddingRight : 5,
+  paddingBottom : 5,
+  paddingTop : 10
 }
 
 class Search extends Component{
